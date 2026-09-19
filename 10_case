@@ -1,0 +1,9 @@
+def check_case(ch):
+    # write your logic here
+
+
+    ch = input("Enter a character: ")
+
+    result = check_case(ch)
+
+    print(result)

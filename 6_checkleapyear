@@ -1,0 +1,9 @@
+def check_leap_year(year):
+    # write your logic here
+
+
+    year = int(input("Enter a year: "))
+
+    result = check_leap_year(year)
+
+    print(result)
