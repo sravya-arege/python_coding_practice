@@ -1,9 +1,0 @@
-def check_alphabet(ch):
-    # write your logic here
-
-
-    ch = input("Enter a character: ")
-
-    result = check_alphabet(ch)
-
-    print(result)
