@@ -1,9 +1,0 @@
-def check_even_odd(n):
-    # write your logic here
-
-
-    n = int(input("Enter a number: "))
-
-    result = check_even_odd(n)
-
-    print(result)
